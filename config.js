@@ -1,9 +1,10 @@
-// S C R I P T  O R I  B Y  @BochilGaming 🔭
-// M A D E  B Y  Letta - Sama 🐰  
+// S C R I P T  O R I  B Y  @Leonnoxxx 🏴‍☠️
+// M A D E  B Y  Leon - Sama 🏴‍☠️  
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
 // • Allah SWT
+// • Leonnox 🏴‍☠️
 // • Nurutomo
 // • Bochilgaming
 // • Rominaru
@@ -45,7 +46,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
 global.sig = 'https://www.instagram.com/whooputt'
-global.sgh = 'https://github.com/Putbotz'
+global.sgh = 'https://github.com/kiraiisenpai'
 global.sgc = 'https://chat.whatsapp.com/L5A62ACjj9IDiIZ962HsYp'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
@@ -59,16 +60,16 @@ global.ppulsa2 = '081336990781'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '60147366955'
-global.nomorown = '60147366955'
-global.namebot = 'Kyzo'
-global.nameown = '𝕻𝖚𝖙'
+global.nomorbot = '17162712719'
+global.nomorown = '60146144525'
+global.namebot = 'Leonnox'
+global.nameown = '𝘼𝙧𝙭'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['0'],
-  ['60147366955', '𝕻𝖚𝖙 𝕯𝖊𝖛', true]
+  ['60146144525', '𝘼𝙧𝙭 𝕯𝖊𝖛', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝕻𝖚𝖙 𝕯𝖊𝖛 あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝕻𝖚𝖙 𝕯𝖊𝖛˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝕻𝖚𝖙 𝕯𝖊𝖛'
+global.wm = '                「 𝘼𝙧𝙭 𝕯𝖊𝖛 あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝘼𝙧𝙭 𝕯𝖊𝖛˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝘼𝙧𝙭 𝕯𝖊𝖛'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝕻𝖚𝖙 𝕯𝖊𝖛 Whatsapp ʙᴏᴛ'
+global.titlebot = '🏴‍☠️ ┊ 𝘼𝙧𝙭 𝕯𝖊𝖛 Whatsapp ʙᴏᴛ'
 global.author = global.wm
 
 
@@ -172,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝕻\n𝖚\n𝖙\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎`
 
 global.multiplier = 999 // The higher, The harder levelup
 
