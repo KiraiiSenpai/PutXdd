@@ -62,8 +62,8 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '17162712719'
 global.nomorown = '60146144525'
-global.namebot = 'Leonnox'
-global.nameown = '𝘼𝙧𝙭'
+global.namebot = '𝘼𝙧𝙭'
+global.nameown = 'Leonnox'
 
 
 /*============== STAFF ==============*/
